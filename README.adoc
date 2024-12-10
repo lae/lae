@@ -1,9 +1,19 @@
+.`2024.09.07` _okay but..._
+[%collapsible]
+====
+[discrete]
 == `2024.09.07`
 
 okay but why do 100 people "follow" this account...?
 
 you guys are weird
+====
 
+.`2024.11.30` _ヤーーーァ　レン　ソーラン…_
+
+[%collapsible]
+====
+[discrete]
 == `2024.11.30`
 
 _ヤーーーァ　レン　ソーラン　ソーラン　ソーラン　ソーラン　ソーラン…_ +
@@ -23,3 +33,23 @@ _ハー　ドッコイショ！　ドッコイショ！_ +
 
 _ソーラン！　ソーラン！_ +
 ^_そーらん！　そーらん！_^
+====
+
+.`2024.12.10` _the weirdest thing..._
+[%collapsible]
+====
+[discrete]
+== `2024.12.10`
+
+the weirdest thing is how consistently active this account is this year compared to previous years.
+
+.2024
+--
+image::assets/20241210-heatmap2024.png[Github commit heatmap for 2024]
+--
+
+.2023
+--
+image::assets/20241210-heatmap2023.png[GitHub commit heatmap for 2023]
+--
+====
