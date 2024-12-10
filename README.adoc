@@ -11,7 +11,7 @@ you guys are weird
 
 .`2024.11.30` _ヤーーーァ　レン　ソーラン…_
 
-[%collapsible]
+[%collapsible%open]
 ====
 [discrete]
 == `2024.11.30`
